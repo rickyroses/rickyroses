@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header.png)
 
 # 💫 About Me:
 🔭 I’m currently working on creating my portfolio<br>👥 I’m looking to collaborate on learning projects<br>🤝 I’m looking for help with Full Stack Development<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about computer science and maybe I know the answer<br>⚡ Fun fact: I love to code
